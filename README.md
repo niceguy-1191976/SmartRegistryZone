@@ -1,0 +1,2 @@
+# SmartRegistryZone
+Python script
